@@ -1,1 +1,2 @@
 # nth-max-and-min-addition
+Sara gave an assignment to her students. She gave a set of numbers to her students, and the students have to add the first maximum number and the first minimum number, and then the second maximum number and the second minimum number, up to the nth number. From that number, the students have to print the maximum number. Write a Java programme to help the students solve this problem.
